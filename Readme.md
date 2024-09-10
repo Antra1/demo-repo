@@ -1,2 +1,2 @@
 # Learning
-Introduction of project:
+Introduction of project: Learning can never stop
